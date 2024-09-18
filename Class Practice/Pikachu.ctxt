@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Pikachu
+comment1.params=
+comment1.target=Pikachu()
+comment2.params=inputHp\ inputAttack\ inputDefense\ inputSpeed
+comment2.target=Pikachu(int,\ int,\ int,\ int)
+comment3.params=anyPoorPikachu
+comment3.target=void\ thunderbolt(Pikachu)
+numComments=4

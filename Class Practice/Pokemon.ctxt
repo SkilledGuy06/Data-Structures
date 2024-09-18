@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Pokemon
+comment1.params=userHp\ userAttack\ userDefense\ userSpeed
+comment1.target=Pokemon(int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=int\ getHp()
+comment3.params=inputHp
+comment3.target=void\ setHp(int)
+comment4.params=
+comment4.target=int\ getAttack()
+comment5.params=
+comment5.target=int\ getDefense()
+numComments=6
