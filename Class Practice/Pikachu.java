@@ -23,4 +23,8 @@ public class Pikachu extends Pokemon
         anyPoorPikachu.setHp(resultingLife);
         
     }
+
+    private void hi(){
+        System.out.println("hello!");
+    }
 }
